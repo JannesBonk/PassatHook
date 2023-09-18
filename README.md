@@ -12,5 +12,5 @@ This is where most PassatHook DLLs or even possibly V3 will be found
 
 ![image](https://cdn.discordapp.com/attachments/1153354626486259823/1153354999758344262/image.png)
 # Credits:
-- https://github.com/notgoodusename/OsirisAndExtra
+- https://github.com/notgoodusename/OsirisAndExtra - for the V2 and V1
 
