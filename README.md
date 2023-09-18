@@ -8,7 +8,6 @@ This is where most PassatHook DLLs or even possibly V3 will be found
 - I won't put alot of work into this, im just doing it for **fun**.
 # Screenshots:
 ### V2:
-- Menu:
 ![image](https://cdn.discordapp.com/attachments/1138540981919158335/1153356322151088158/image.png)
 
 ![image](https://cdn.discordapp.com/attachments/1153354626486259823/1153354999758344262/image.png)
