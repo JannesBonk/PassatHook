@@ -9,4 +9,3 @@
 ### It doesn't write anything to memory, any type of mouse action is done using ```mouse_event```
 # Credits:
 ### [ImGui](https://github.com/ocornut/imgui), [UnknownCheats](https://www.unknowncheats.me/), [Source2SDK](https://github.com/neverlosecc/source2sdk), [CS2-AntiCheat](https://github.com/danielkrupinski/cs2-anticheat)
-<h1 style="color:purple;">Hello World</h1>
