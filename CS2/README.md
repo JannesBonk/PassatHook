@@ -9,7 +9,7 @@
 ### Make sure your cursor is unlocked to navigate menu.
 ### Make sure you play in windowed/windowed fullscreen for the overlay to work
 # How it works?
-### It's an external aplication that can read and **write** CS2 memory.
+### It's an external aplication that can read and *write* CS2 memory.
 ### Uses ImGui library to draw stuff on the screen.
 # Credits:
 ### [ImGui](https://github.com/ocornut/imgui), [UnknownCheats](https://www.unknowncheats.me/), [Source2SDK](https://github.com/neverlosecc/source2sdk), [CS2-AntiCheat](https://github.com/danielkrupinski/cs2-anticheat)
