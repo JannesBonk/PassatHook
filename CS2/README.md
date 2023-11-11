@@ -12,4 +12,4 @@
 ### It's an external aplication that can read and *write* CS2 memory.
 ### Uses ImGui library to draw stuff on the screen.
 # Credits:
-### [ImGui](https://github.com/ocornut/imgui), [UnknownCheats](https://www.unknowncheats.me/), [Source2SDK](https://github.com/neverlosecc/source2sdk), [CS2-AntiCheat](https://github.com/danielkrupinski/cs2-anticheat)
+### [ImGui](https://github.com/ocornut/imgui), [UnknownCheats](https://www.unknowncheats.me/), [CS2-Dumper](https://github.com/a2x/cs2-dumper), [CS2-AntiCheat](https://github.com/danielkrupinski/cs2-anticheat)
