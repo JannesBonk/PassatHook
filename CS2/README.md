@@ -4,7 +4,7 @@
 # Will it be paid?
 ### I won't make it paid since there are probably better free cheats that do the same thing
 # Where can I get it?
-### Currently it's in development. Invites have been rolled out to my friends. ||*(for now)*||
+### Currently it's in development. Invites have been rolled out to my friends. *(for now)*
 # Is it undetected?
 ### Most likely it is, due to it being only read only, but we will never know
 ### Final answer: yes
