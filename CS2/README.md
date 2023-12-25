@@ -6,7 +6,7 @@
 # Where can I get it?
 ### Currently it's in development. Invites have been rolled out to my friends. *(for now)*
 # Is it undetected?
-### Most likely it is, but we will never know ¯\\_(ツ)_/¯
+### Most likely it is, but we will never know ¯\\(ツ)/¯
 ### Final answer: yes
 # How to use?
 ### Press insert to close/open menu.
