@@ -1,6 +1,6 @@
 # PassatHook for CS2
 ### Screenshot:
-![image](https://cdn.discordapp.com/attachments/1100453733625761864/1183324007890690090/image.png?ex=6587eb5c&is=6575765c&hm=b7182f3578b279da34cdd5a4b263fac997b3f4fe3b709f19fef1603a0d4f4480&)
+![image](https://cdn.discordapp.com/attachments/1100453733625761864/1188811777585184818/image.png?ex=659be23e&is=65896d3e&hm=297c360a7fd5b7aa7188ef8f7563326f0f6f329e4d0e6621271bb33cf3d202e7&)
 # Will it be paid?
 ### I won't make it paid since there are probably better free cheats that do the same thing
 # Where can I get it?
