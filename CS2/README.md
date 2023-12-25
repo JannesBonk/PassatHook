@@ -1,5 +1,5 @@
 # PassatHook for CS2
-### Mainly made it for shit and giggles to taunt P2C providers **COUGH** ***pasters***... **COUGHT** **COUGHT** ***Aworex...***
+- Mainly made it for shit and giggles to taunt P2C providers **COUGH** ***pasters***... **COUGH** **COUGH** ***Aworex...***
 ### Screenshot:
 ![image](https://cdn.discordapp.com/attachments/1100453733625761864/1188811777585184818/image.png?ex=659be23e&is=65896d3e&hm=297c360a7fd5b7aa7188ef8f7563326f0f6f329e4d0e6621271bb33cf3d202e7&)
 # Will it be paid?
