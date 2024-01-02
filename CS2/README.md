@@ -1,7 +1,7 @@
 # PassatHook for CS2
 - Mainly made it for shit and giggles to taunt P2C providers **COUGH** ***pasters***... **COUGH** **COUGH** ***Aworex...***
 ### Screenshot:
-![image](https://cdn.discordapp.com/attachments/1100453733625761864/1188811777585184818/image.png?ex=659be23e&is=65896d3e&hm=297c360a7fd5b7aa7188ef8f7563326f0f6f329e4d0e6621271bb33cf3d202e7&)
+![image](https://cdn.discordapp.com/attachments/1172175750405824552/1191676159650430996/image.png?ex=65a64de8&is=6593d8e8&hm=df13bc35730f775464b13ff9596327bf5837f1154ad610e1146fa852cb57e16e&)
 # Will it be paid?
 ### I won't make it paid since there are probably better free cheats that do the same thing
 # Where can I get it?
