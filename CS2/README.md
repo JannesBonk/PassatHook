@@ -1,5 +1,5 @@
 # PassatHook for CS2
-- Mainly made it for shit and giggles to taunt P2C providers **COUGH** ***pasters***... **COUGH** **COUGH** ***Aworex...***
+- Mainly made it for shit and giggles to taunt P2C providers **COUGH** ***pasters***... **COUGH** **COUGH** ***[Aworex...](https://youtu.be/TYj2F44RUMY?si=NeSKBWAwUhx56VJU)***
 ### Screenshot:
 ![image](https://cdn.discordapp.com/attachments/1172175750405824552/1191676159650430996/image.png?ex=65a64de8&is=6593d8e8&hm=df13bc35730f775464b13ff9596327bf5837f1154ad610e1146fa852cb57e16e&)
 # Will it be paid?
@@ -9,10 +9,6 @@
 # Is it undetected?
 ### Most likely it is, but we will never know ¯\\(ツ)/¯
 ### Final answer: yes
-# How to use?
-### Press insert to close/open menu.
-### Make sure your cursor is unlocked to navigate the menu.
-### Make sure you play in windowed/windowed fullscreen for the overlay to work
 # How it works?
 ### It's an external aplication that can read and write CS2 memory.
 ### Uses ImGui library to draw stuff on the screen.
