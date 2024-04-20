@@ -5,8 +5,12 @@
 
 ## What do the letters represent?
 "A" = Alpha version, may be unstable
+
 "B" = Beta version, stable, but may have bugs
+
 "RC" = Release candidate version
+
 "SR" = Stable release version
+
 "T" = Test version, mainly used in unreleased versions
 
