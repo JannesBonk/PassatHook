@@ -4,13 +4,9 @@
 - The cheat will compare this version, to the compiled version *(ex. compiled as 2.41A, but online it's 2.40SR, that means there is an incoming update)*, and determine if it needs to be updated or not.
 
 ## What do the letters represent?
-"A" = Alpha version, may be unstable
+"A" = Alpha version, may be unstable and may have bugs
 
-"B" = Beta version, stable, but may have bugs
+"S" = Stable version
 
-"RC" = Release candidate version
-
-"SR" = Stable release version
-
-"T" = Test version, mainly used in unreleased versions
+"U" = Outdated version, CS2 got an update, and the cheat doesn't work
 
