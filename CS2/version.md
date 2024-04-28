@@ -8,5 +8,5 @@
 
 "S" = Stable version
 
-"U" = Outdated version, CS2 got an update, and the cheat doesn't work
+"B" = Beta stable version, may be unstable and may have bugs
 
